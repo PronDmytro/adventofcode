@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "type": "module",
+    "target": "es2020",
+    "module": "es2020",
+    "removeComments": true,
+    "declaration": true,
+    "outDir": "./dist",
+    "preserveConstEnums": true,
+    "strict": true,
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "node",
+    "forceConsistentCasingInFileNames": true,
+    "importHelpers": true,
+    "lib": ["ESNext.Array"]
+  },
+  "include": [
+    "src"
+  ],
+  "exclude": [
+    "node_modules",
+    "src/**/*.test.ts",
+    "src/**/*.temp.ts"
+  ]
+}
