@@ -7,7 +7,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "aoc-copilot": "^1.6.3"
+    "aoc-copilot": "^1.6.4"
   },
   "devDependencies": {
     "@types/node": "^22.10.1"
